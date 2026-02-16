@@ -1,0 +1,11 @@
+.navnav {
+  background-image:url(bkg.png);
+  background-repeat:repeat-x;
+}
+
+.navnavinner {
+  width:1075px;
+  height:38px;
+  padding:0px;
+  margin:auto;
+}
